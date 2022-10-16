@@ -1,2 +1,2 @@
 # cisco
-A school project about "Cisco Progressive Packet Tracer" with ~8 tasks including multi, micro and mobile networks"
+A school project based on [Cisco Progressive Packet Tracer](https://learningnetwork.cisco.com/s/packet-tracer-alternative-lab-solutions) with ~8 tasks including multi, micro and mobile networks"
